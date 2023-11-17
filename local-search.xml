@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2023/10/25/#%20%E4%B8%80%E4%BA%9B%E8%BF%B7%E8%8C%AB/"/>
+    <url>/2023/10/25/#%20%E4%B8%80%E4%BA%9B%E8%BF%B7%E8%8C%AB/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一些迷茫"><a href="#一些迷茫" class="headerlink" title="一些迷茫"></a>一些迷茫</h1><h2 id="休学"><a href="#休学" class="headerlink" title="休学"></a>休学</h2><p>我现在基本上是在休学的状态<br>很少需要去学校<br>（其实是请假 不过这个以后再说<br>所以会有很多时间去做自己的事情  </p><h2 id="知识焦虑"><a href="#知识焦虑" class="headerlink" title="知识焦虑"></a>知识焦虑</h2><p>平时会mark超多东西（明明不会看 打开只是为了过一阵子关掉<br>浏览器把内存占满是常态<br>大部分都是些有的没的</p><h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><p>好像不去上学就理所应当的没有学习压力<br>但是又会觉得 ” 没有在学习就是在荒废时间 “ </p><h2 id="罪恶感"><a href="#罪恶感" class="headerlink" title="罪恶感"></a>罪恶感</h2><p>只要打一会游戏罪恶感就超强的<br>但是陷入信息流的时候就会安慰自己说是在休息  </p><h2 id="想"><a href="#想" class="headerlink" title="想"></a>想</h2><p>提升英语词汇量探索外网而不依靠翻译<br>学单片机做一些自己的小玩具<br>交到一些朋友（如果有朋友倾诉的话也不会来写博客叭qwq<br>长高一点点<br>想好好运营自己的博客<br>规划下未来 虽然不想但是好像还真的挺需要的<br>不要再继续mark了！！！！！感兴趣的东西马上就要搞懂！！！！</p><h4 id="有具体的目标会比较容易实现吧-不想再继续躺着了-（；´д｀）ゞ呜"><a href="#有具体的目标会比较容易实现吧-不想再继续躺着了-（；´д｀）ゞ呜" class="headerlink" title="有具体的目标会比较容易实现吧 不想再继续躺着了 （；´д｀）ゞ呜"></a>有具体的目标会比较容易实现吧 不想再继续躺着了 （；´д｀）ゞ呜</h4><hr><p>写一半被我妈叫去谈话了<br>我呢 打算退学 继续请假也不是办法<br>不想写了  </p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>text</title>
+    <link href="/2023/10/13/text/"/>
+    <url>/2023/10/13/text/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2023/10/11/hello-world/"/>
+    <url>/2023/10/11/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
